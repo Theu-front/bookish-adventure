@@ -1,0 +1,33 @@
+h1,
+h2 {
+    color: white;
+    text-align: center;
+
+}
+
+p {
+    text-align: center;
+    color: white
+}
+
+.título {
+    font-size: 50px;
+}
+
+.buttom {
+    color: white;
+    background: black;
+    border: 5px solid black;
+    border-radius: 20px;
+    text-decoration: none;
+
+}
+
+.buttom:hover {
+    color: black;
+    background: white;
+    border: 5px solid white;
+    border-radius: 20px;
+    text-decoration: none;
+
+}
